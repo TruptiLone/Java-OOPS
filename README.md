@@ -16,11 +16,11 @@ This Java program performs basic arithmetic operations (addition, subtraction, m
 - Validates the input to ensure exactly two integers are provided.
 - Handles division by zero and other errors gracefully.
 
-## Requirements:
+### Requirements:
 - Java (version 8 or higher) must be installed.
 - IntelliJ IDEA or any Java IDE for development.
 
-## Usage
+### Usage
 
 1. Clone this repository.
 2. Compile the program using your IDE or from the command line.
@@ -34,3 +34,14 @@ This Java program performs basic arithmetic operations (addition, subtraction, m
 - Input validation
 - Basic arithmetic operations
 - Error handling for division by zero
+
+
+## BankAccountFuctionality
+
+## BasicArithematicOperations
+
+## InheritanceAndPolymorphism
+
+## Multithreaded Factor Finder
+
+## StringsAndArrays
