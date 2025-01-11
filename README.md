@@ -1,5 +1,5 @@
-# Java Arithmetic Operations and GCD Calculator
-
+## Java Arithmetic Operations and GCD Calculator
+StudentGradeJavaFX
 ## Overview
 
 This Java program performs basic arithmetic operations (addition, subtraction, multiplication, division, and modulus) and computes the Greatest Common Divisor (GCD) of two integers passed as command-line arguments.
